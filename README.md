@@ -1,4 +1,4 @@
-# Zomato LLD (Low Level Design)
+# Zomato (Low Level Design)
 
 This is a C++ console application demonstrating a Low-Level Design (LLD) for a food delivery application similar to Zomato.
 
